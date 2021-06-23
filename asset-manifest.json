@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/loremIpsum_React_Project/static/css/main.fb86bce3.chunk.css",
-    "main.js": "/loremIpsum_React_Project/static/js/main.76aac12d.chunk.js",
-    "main.js.map": "/loremIpsum_React_Project/static/js/main.76aac12d.chunk.js.map",
-    "runtime-main.js": "/loremIpsum_React_Project/static/js/runtime-main.0137e13c.js",
-    "runtime-main.js.map": "/loremIpsum_React_Project/static/js/runtime-main.0137e13c.js.map",
-    "static/js/2.d8a71053.chunk.js": "/loremIpsum_React_Project/static/js/2.d8a71053.chunk.js",
-    "static/js/2.d8a71053.chunk.js.map": "/loremIpsum_React_Project/static/js/2.d8a71053.chunk.js.map",
-    "index.html": "/loremIpsum_React_Project/index.html",
-    "precache-manifest.b48455c2f662339604b0fe365e459bdf.js": "/loremIpsum_React_Project/precache-manifest.b48455c2f662339604b0fe365e459bdf.js",
-    "service-worker.js": "/loremIpsum_React_Project/service-worker.js",
-    "static/css/main.fb86bce3.chunk.css.map": "/loremIpsum_React_Project/static/css/main.fb86bce3.chunk.css.map",
-    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/loremIpsum_React_Project/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+    "main.css": "/LoremIpsum_React_Project/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/LoremIpsum_React_Project/static/js/main.76aac12d.chunk.js",
+    "main.js.map": "/LoremIpsum_React_Project/static/js/main.76aac12d.chunk.js.map",
+    "runtime-main.js": "/LoremIpsum_React_Project/static/js/runtime-main.53030f52.js",
+    "runtime-main.js.map": "/LoremIpsum_React_Project/static/js/runtime-main.53030f52.js.map",
+    "static/js/2.d8a71053.chunk.js": "/LoremIpsum_React_Project/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/LoremIpsum_React_Project/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/LoremIpsum_React_Project/index.html",
+    "precache-manifest.f726df14b5b550e94dee610a70c12463.js": "/LoremIpsum_React_Project/precache-manifest.f726df14b5b550e94dee610a70c12463.js",
+    "service-worker.js": "/LoremIpsum_React_Project/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/LoremIpsum_React_Project/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/LoremIpsum_React_Project/static/js/2.d8a71053.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0137e13c.js",
+    "static/js/runtime-main.53030f52.js",
     "static/js/2.d8a71053.chunk.js",
     "static/css/main.fb86bce3.chunk.css",
     "static/js/main.76aac12d.chunk.js"
